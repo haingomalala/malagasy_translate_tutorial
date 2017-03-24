@@ -20,10 +20,10 @@ print("It executes program line-by-line")
 currentDirectory = os.getcwd() #same as `dir` in windows and `pwd` in linux
 print("We are in directory:", currentDirectory)
 print("The following is a list of files in a current directory:")
-
-for dir in os.listdir():
 print(os.listdir())
 
+for dir in os.listdir():
+ print(dir)
 
 
 print("Here it ends")
