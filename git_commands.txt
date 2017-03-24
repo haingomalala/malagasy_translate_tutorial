@@ -1,0 +1,26 @@
+    1  ls
+    2  cd Documents
+    3  pwd
+    4  git clone https://github.com/haingomalala/malagasy_translate_tutorial.git
+    5  ls
+    6  git log
+    7  ls
+    8  git log
+    9  git log
+   10  cd malagasy_translate_tutorial/
+   11  ls
+   12  git log
+   13  git p
+   14  git che
+   15  git p
+   16  git status
+   17  git diff
+   18  git add 1_os_operations.py
+   19  git status
+   20  git commit 
+   21  git commit -m "message"
+   22  git push
+   23  git status
+   24  history 
+   25  history >git_commands.txt
+   q! pour sortir vers en haut
